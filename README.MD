@@ -11,8 +11,7 @@
 
 ##
 
-<div> 
-  <a href="https://www.linkedin.com/in/luana-barremaker-ruschel-de-freitas-lima-6869b2202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
    <a href = "mailto:luanabruschel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://codepen.io/lurschz"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target= "_blanck">
   <a href ="https://open.spotify.com/user/31vsnifdx6iq6xbdmbr5fx3wcvti"><img src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target= "_blanck">
