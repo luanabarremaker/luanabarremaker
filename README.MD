@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ## Olá! Eu sou a Luana Barremaker. Bem-vindo(a) ao meu GitHub!
 
 #### <i>Tecnologias em desenvolvimento: </i>
