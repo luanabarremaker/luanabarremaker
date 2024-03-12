@@ -5,6 +5,7 @@
   <img align="center" alt="Lua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img aling="center" alt="Lua-bootstrap" height="30" width="40" src="https://devicons.railway.app/i/bootstrap.svg">
  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data align="right" data-vanity="luana-barremaker-ruschel-6869b2202" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/luana-barremaker-ruschel-6869b2202?trk=profile-badge">Luana Barremaker Ruschel</a></div>
 </div>
 
