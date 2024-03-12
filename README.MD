@@ -1,11 +1,11 @@
 ## Olá! Eu sou a Luana Barremaker. Bem-vindo(a) ao meu GitHub!
 
 #### <i>Tecnologias em desenvolvimento: </i>
-<div style="display: inline_block"><br>
+<div class="row" style="display: inline_block"><br>
   <img align="center" alt="Lua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aling="center" alt="Lua-bootstrap" height="30" width="40" padding="0" src="https://devicons.railway.app/i/bootstrap.svg">
+  <img aling="center" alt="Lua-bootstrap" height="30" width="40" src="https://devicons.railway.app/i/bootstrap.svg">
  </div>
 
 
