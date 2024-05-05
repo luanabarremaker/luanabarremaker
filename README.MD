@@ -45,7 +45,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d3awytnmmfk53d.cloudfront.net/landings-uee/20c9303fb729c4fca242866351de0b2ed52190fc/2564d03f783f5e9f8b526e67504758af/small-descomplica-icon.svg">]
 **Software Engineering Undergraduate** \
-[**Faculdade Digital Descomplica**] (https://descomplica.com.br/faculdade/diferenciais/) • In progress \
+[**Faculdade Digital Descomplica**](https://descomplica.com.br/faculdade/diferenciais/) • In progress \
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
