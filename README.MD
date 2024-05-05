@@ -50,7 +50,7 @@ Skills: `HTML` `Bootstrap` `CSS` `JavaScript` `Git` `GitHub` `Software Architect
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/z0GqgdbadOHNtKnn4lXg8laU9InzVMnm5hT4n98o2ze3_ZN7S9dlvLTp73ybEUBlNSoYVv1R3w=s900-c-k-c0x00ffffff-no-rj"/>]
 **Analysis And Systems Development** \
 [**SENAI College of Technology**](https://www.onebitcode.com/) • Transferred \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
