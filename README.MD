@@ -48,6 +48,8 @@
 [**Descomplica Digital College**](https://descomplica.com.br/faculdade/diferenciais/) • In progress \
 Skills: `HTML` `Bootstrap` `CSS` `JavaScript` `Git` `GitHub` `Software Architecture` `Software Development` `Software Quality`
 
+<br>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
 **Analysis And Systems Development** \
 [**SENAI College of Technology**](https://www.onebitcode.com/) • Transferred \
