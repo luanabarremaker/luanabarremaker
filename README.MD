@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Luana+Barremaker;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
 <h1 align='center'>
   <br>
-  <img src='https://i.pinimg.com/280x280_RS/ef/1c/98/ef1c9808313dacb85c6fb907d817c8fa.jpg' alt='Luana' width='200'>
+  <img src='C:\Users\LUANA-PC\Downloads\Manga de Rin-photoaidcom-cropped.jpg' alt='Luana' width='200'>
   <br>
   Lua
   <br>
