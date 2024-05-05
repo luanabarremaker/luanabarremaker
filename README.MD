@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Luana+Barremaker;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
-
 <h1 align='center'>
   <br>
   <img src='https://i.pinimg.com/564x/4d/81/16/4d81163f2e7f5304933edab0c0201e8d.jpg' alt='Luana' width='200'>
