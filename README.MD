@@ -53,8 +53,7 @@ Skills: `HTML` `Bootstrap` `CSS` `JavaScript` `Git` `GitHub` `Software Architect
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/z0GqgdbadOHNtKnn4lXg8laU9InzVMnm5hT4n98o2ze3_ZN7S9dlvLTp73ybEUBlNSoYVv1R3w=s900-c-k-c0x00ffffff-no-rj"/>](https://g.co/kgs/jTo3WMR)
 **Analysis And Systems Development** \
 [**SENAI College of Technology**](https://g.co/kgs/jTo3WMR) • Transferred \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`Bulma` `MongoDB` `ElectronJS`
+Skills: `Linux Ubuntu` `MySQL` `C++`
 <br>
 
 ## Contact me:
