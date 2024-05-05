@@ -43,16 +43,16 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d3awytnmmfk53d.cloudfront.net/landings-uee/20c9303fb729c4fca242866351de0b2ed52190fc/2564d03f783f5e9f8b526e67504758af/small-descomplica-icon.svg">]
-*Software Engineering Undergraduate** \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d3awytnmmfk53d.cloudfront.net/landings-uee/20c9303fb729c4fca242866351de0b2ed52190fc/2564d03f783f5e9f8b526e67504758af/small-descomplica-icon.svg">](https://descomplica.com.br/faculdade/diferenciais/)
+**Software Engineering Undergraduate** \
 [**Descomplica Digital College**](https://descomplica.com.br/faculdade/diferenciais/) • In progress \
 Skills: `HTML` `Bootstrap` `CSS` `JavaScript` `Git` `GitHub` `Software Architecture` `Software Development` `Software Quality`
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/z0GqgdbadOHNtKnn4lXg8laU9InzVMnm5hT4n98o2ze3_ZN7S9dlvLTp73ybEUBlNSoYVv1R3w=s900-c-k-c0x00ffffff-no-rj"/>]
-*Analysis And Systems Development** \
-[**SENAI College of Technology**](https://www.onebitcode.com/) • Transferred \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/z0GqgdbadOHNtKnn4lXg8laU9InzVMnm5hT4n98o2ze3_ZN7S9dlvLTp73ybEUBlNSoYVv1R3w=s900-c-k-c0x00ffffff-no-rj"/>](https://g.co/kgs/jTo3WMR)
+**Analysis And Systems Development** \
+[**SENAI College of Technology**](https://g.co/kgs/jTo3WMR) • Transferred \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
 `Bulma` `MongoDB` `ElectronJS`
 <br>
