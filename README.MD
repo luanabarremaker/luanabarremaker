@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Luana+Barremaker;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
+-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Luana+Barremaker;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
 <h1 align='center'>
   <br>
   <img src='https://github.com/luanabarremaker/luanabarremaker/blob/main/Manga%20de%20Rin-photoaidcom-cropped.jpg' alt='Luana' width='200'>
@@ -45,7 +45,6 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d3awytnmmfk53d.cloudfront.net/landings-uee/20c9303fb729c4fca242866351de0b2ed52190fc/2564d03f783f5e9f8b526e67504758af/small-descomplica-icon.svg">]
 **Software Engineering Undergraduate** \
-[**UNINTER**](https://www.uninter.com/)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
