@@ -54,8 +54,10 @@ Skills: `HTML` `Bootstrap` `CSS` `JavaScript` `Git` `GitHub` `Software Architect
 **Analysis And Systems Development** \
 [**SENAI College of Technology**](https://g.co/kgs/jTo3WMR) • Transferred \
 Skills: `Linux Ubuntu` `MySQL` `C++`
+
 <br>
-<BR>
+<br>
+
 ## Contact me:
 <div>
 <a href="https://www.instagram.com/y_m_k.02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
