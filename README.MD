@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align='center'>TAlice asked: Cheshire Cat... can you tell me which way I should take?
+<h4 align='center'>Alice asked: Cheshire Cat... can you tell me which way I should take?
 That depends a lot on where you want to go – said the Cat.
 I don't know where to go! – said Alice.
 If you don't know where to go, any path will do.
