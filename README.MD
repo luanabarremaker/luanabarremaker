@@ -43,7 +43,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d3awytnmmfk53d.cloudfront.net/landings-uee/20c9303fb729c4fca242866351de0b2ed52190fc/2564d03f783f5e9f8b526e67504758af/small-descomplica-icon.svg)
 **Software Engineering Undergraduate** \
 [**UNINTER**](https://www.uninter.com/)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
