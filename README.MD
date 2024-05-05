@@ -45,13 +45,14 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d3awytnmmfk53d.cloudfront.net/landings-uee/20c9303fb729c4fca242866351de0b2ed52190fc/2564d03f783f5e9f8b526e67504758af/small-descomplica-icon.svg">]
 **Software Engineering Undergraduate** \
-[**Faculdade Digital Descomplica**](https://descomplica.com.br/faculdade/diferenciais/) • In progress \
-Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality`
+[**Descomplica Digital College**](https://descomplica.com.br/faculdade/diferenciais/) • In progress \
+Skills: `HTML` `Bootstrap` `CSS` `JavaScript` `Git` `GitHub` `Software Architecture` `Software Development` `Software Quality`
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
+**Analysis And Systems Development** \
+[**SENAI College of Technology**](https://www.onebitcode.com/) • Transferred \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
 `Bulma` `MongoDB` `ElectronJS`
-
 <br>
 
 ## Contact me:
