@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Luana Barremaker. Bem-vindo(a) ao meu GitHub!
 
-Meu linkedin: <a href="https://www.linkedin.com/in/luana-barremaker-ruschel/">https://www.linkedin.com/in/luana-barremaker-ruschel/</a>
 
 #### <i>Tecnologias em desenvolvimento: </i>
 <div style="display: inline_block"><br>
