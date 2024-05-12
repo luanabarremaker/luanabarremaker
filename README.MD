@@ -47,7 +47,7 @@
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d3awytnmmfk53d.cloudfront.net/landings-uee/20c9303fb729c4fca242866351de0b2ed52190fc/2564d03f783f5e9f8b526e67504758af/small-descomplica-icon.svg">](https://descomplica.com.br/faculdade/diferenciais/)
 **Software Engineering Undergraduate** \
 [**Descomplica Digital College**](https://descomplica.com.br/faculdade/diferenciais/) • In progress \
-Skills: `UI % UX` `HTML` `Bootstrap` `CSS` `JavaScript` `Git` `GitHub` <br> `Software Architecture` `Dynamic Development` `Software Quality` `Programming Logic` `FrontEnd Development`
+Skills: `UI & UX` `HTML` `Bootstrap` `CSS` `JavaScript` `Git` `GitHub` <br> `Software Architecture` `Dynamic Development` `Software Quality` `Programming Logic` `FrontEnd Development`
 
 <br>
 
